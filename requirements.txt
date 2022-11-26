@@ -1,0 +1,6 @@
+torch
+pytorch-lightning
+matplotlib
+pandas
+numpy
+scipy
