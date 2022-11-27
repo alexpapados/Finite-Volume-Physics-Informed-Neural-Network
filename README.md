@@ -8,7 +8,7 @@ numerical discretization scheme.
 ## Setup ##
 First, clone repository:
 
-`git clone https://github.com/alexpapados/DeepFlow/`
+`git clone https://github.com/alexpapados/FV-PINNs/`
 
 Once the repository is cloned locally, run:
 
